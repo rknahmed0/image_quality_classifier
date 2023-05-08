@@ -1,4 +1,6 @@
-# Image Quality Classifier 
+# Image Quality Classifier
+
+## Author: Syed Rakin Ahmed 
 
 ## Get started
 
